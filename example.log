@@ -1,0 +1,20 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 271-941-859
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:43] "POST /longtask HTTP/1.1" 202 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:44] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:46] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:49] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:51] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:53] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:55] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:57] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:02:59] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:03:02] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:03:04] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:03:06] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:03:08] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:03:10] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2017 08:03:12] "GET /status/e046db9b-ef87-4f8e-84eb-227e2b441166 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Prog\\flask-celery-example\\app.py', reloading
